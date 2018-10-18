@@ -1,1 +1,1 @@
-# 使用webpack4搭建基础环境，包括react、es6、scss处理和css文件提取
+# 使用webpack4搭建基础环境，react、es6、scss处理
